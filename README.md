@@ -9,6 +9,8 @@ Third screen which is Activity_detail DetailActivity code and the device running
 <img width="1869" height="978" alt="image" src="https://github.com/user-attachments/assets/4bee032a-de95-49c9-90a0-9a66ec7fbcf3" />
 <img width="1869" height="989" alt="image" src="https://github.com/user-attachments/assets/042a4ea6-b47f-4398-8643-093572e3bb17" />
 Screenshots of the emulsator runnuing which has Splash Screen, Main Screen and Detailed Screen
+<img width="1871" height="980" alt="image" src="https://github.com/user-attachments/assets/9b3a2f30-c4e2-48c3-89f3-d8920cf84cc0" />
+
 <img width="534" height="1003" alt="image" src="https://github.com/user-attachments/assets/5dd3445b-f95c-4723-9854-c517a59e363f" />
 <img width="485" height="993" alt="image" src="https://github.com/user-attachments/assets/7b92b801-f7ba-4d36-8a42-aff9528e4e55" />
 <img width="494" height="933" alt="image" src="https://github.com/user-attachments/assets/3db487bc-9785-4b81-9be0-e3508433d728" />
