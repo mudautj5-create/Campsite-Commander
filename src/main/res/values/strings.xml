@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CampsiteCommander</string>
+    <string name="navigation">Navigation</string>
+    <string name="addgear">AddGear</string>
+    <string name="full_gear_list">Full Gear List</string>
+    <string name="back_to_base">Back to Base</string>
+    <string name="pack_smart_adventure_more">Pack Smart.Adventure More.</string>
+    <string name="campsite_commander">Campsite Commander</string>
+</resources>
